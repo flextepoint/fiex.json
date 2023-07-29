@@ -1,2 +1,1 @@
-# fiex.json
-tik.json
+["flextepoint"]
